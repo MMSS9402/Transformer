@@ -6,7 +6,7 @@ Attention Is All You Need
 
 ## Vision Transformer
 [arxiv](https://arxiv.org/abs/2010.11929)
-[정리한 논문](https://drive.google.com/file/d/1qK3_jC246vGW7iSHxb12CyFH8izz-GdN/view?usp=sharing    
+[정리한 논문](https://drive.google.com/file/d/1qK3_jC246vGW7iSHxb12CyFH8izz-GdN/view?usp=sharing)    
 
 ## The 8-Point as an Inductive Bias Relative Pose Prediction by ViTs
 [arxiv](https://arxiv.org/abs/2208.08988)
